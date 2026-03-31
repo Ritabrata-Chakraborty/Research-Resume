@@ -1,50 +1,48 @@
-# Research Resume - Ritabrata Chakraborty
+# Research Resume LaTeX Template
 
-A professionally formatted LaTeX resume showcasing research experience in robotics, computer vision, and machine learning.
+This repository contains a one-page, research-focused LaTeX resume template.
+It is designed for students and researchers who want a clean, compact resume that highlights technical depth, publications, and impact.
 
-## Overview
 
-This repository contains my academic and research resume, highlighting:
-- **Robotics & Computer Vision** experience
-- **Machine Learning** and **Deep Learning** projects
-- **Publications** in top-tier conferences
-- **Leadership** and teaching experience
-- **Awards** and achievements
+## Resume Structure
 
-## Research Areas
+The resume is organized into the following sections:
 
-- **Autonomous Navigation** - Path planning with uncertainty quantification
-- **Computer Vision** - Object detection, tracking, and 3D reconstruction
-- **Predictive Maintenance** - Synthetic data generation and fault diagnosis
-- **UAV Systems** - Vision-based navigation and control
+1. Header
+- Name, links (GitHub, Scholar, LinkedIn, Portfolio), email, and phone.
 
-## Key Publications
+2. Education
+- Degree details, institute, location, dates, and academic highlights.
 
-- **CogniPlan**: Uncertainty-Guided Path Planning (CoRL 2025)
-- **Hockey3D**: 3D Trajectory Dataset and Classification (CVIP 2026)
-- **Synthetic Data Generation** for Rotating Machinery (PHM 2025)
+3. Publications and Presentations
+- Journal and conference work with links.
 
-## Technical Skills
+4. Experience
+- Research and internship entries with concise, impact-driven bullets.
 
-- **Programming**: Python, C++, MATLAB
-- **Frameworks**: PyTorch, ROS, OpenCV
-- **Tools**: Gazebo, Rviz, SolidWorks, ANSYS
+5. Projects
+- Selected project work with measurable outcomes.
 
-## Usage
+6. Leadership and Teaching
+- Roles, contributions, and mentoring/teaching impact.
 
-To compile the LaTeX resume:
+7. Awards and Achievements
+- Competition outcomes and recognitions.
 
-```bash
-pdflatex resume.tex
-```
+8. Technical Skills
+- Courses, programming languages, robotics/ML tools, and engineering software.
 
-## Contact
+9. Reference Links Page
+- Optional second page with full URLs for publications, projects, and profiles.
 
-- **Email**: ritabratabits[at]gmail[dot]com
-- **LinkedIn**: [Ritabrata Chakraborty](https://www.linkedin.com/in/ritabrata-chakraborty-a63268251/)
-- **Portfolio**: [ritabrata-chakraborty.github.io](https://ritabrata-chakraborty.github.io/Portfolio/)
-- **Google Scholar**: [Research Profile](https://scholar.google.com/citations?user=JikCewwAAAAJ&hl=en)
 
 ## License
 
-MIT License - Feel free to use this template for your own resume!
+MIT License.
+You can reuse and adapt this template for your own resume.
+
+---
+
+<p align="center">
+  <strong>⭐ IF THIS HELPS, PLEASE STAR THE REPO! ⭐</strong>
+</p>
